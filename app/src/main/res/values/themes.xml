@@ -6,6 +6,6 @@
     </style>
 
     <style name="splashScreenTheme" parent="Theme.TheFarmersDairy">
-        <item name="android:windowBackground">@drawable/white_circle</item>
+        <!--  <item name="android:windowBackground">@drawable/white_circle</item> -->
     </style>
 </resources>
