@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.TheFarmersDairy" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/bckground</item>
+    </style>
+
+    <style name="splashScreenTheme" parent="Theme.TheFarmersDairy">
+        <item name="android:windowBackground">@drawable/white_circle</item>
+    </style>
+</resources>
